@@ -6,7 +6,7 @@ aboutPage: true
 
 paginate: 20
 baseurl: /
-domain_name: 'http://hussein.space'
+domain_name: 'https://hussein.space'
 google_analytics: 'UA-83433808-1'
 disqus: true
 
@@ -15,7 +15,7 @@ comments:
     shortname            : "hussein-space"
 
 # Details for the RSS feed generator
-url:            'http://hussein.space'
+url:            'https://hussein.space'
 author:         'Hussein S. Al-Olimat'
 authorTwitter:  'halolimat'
 
