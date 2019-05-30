@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hussein S. Al-Olimat"
 title_separator          : "-"
 name                     : &name "Hussein S. Al-Olimat"
-description              : &description "PhD(c) in Computer Science"
+description              : &description "halolimat website/blog"
 url                      : https://halolimat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "halolimat/halolimat.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hussein S.Al-Olimat"
+  name             : "Hussein S. Al-Olimat"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD(c) in Computer Science (NLP, IE, IR, and ML)"
   location         : "Dayton, OH, USA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=hussein+al-olimat"
