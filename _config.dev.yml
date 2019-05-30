@@ -1,13 +1,45 @@
-# Develop override settings
+name: Hussein Al-Olimat's weblog
+description: Be a teacher or a learner but don't be the third
+meta_description: "Hussein Al-Olimat's weblog"
 
-url: http://localhost:4000
+aboutPage: true
 
-analytics:
-  provider: false
+paginate: 20
+baseurl: /
+domain_name: 'http://hussein.space'
+google_analytics: 'UA-83433808-1'
+disqus: true
 
 comments:
   disqus:
-    shortname            : "mmistakes-dev"
+    shortname            : "hussein-space"
+
+# Details for the RSS feed generator
+url:            'http://hussein.space'
+author:         'Hussein S. Al-Olimat'
+authorTwitter:  'halolimat'
+
+permalink:       /:year/:title/
 
 sass:
   style: expanded
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post
