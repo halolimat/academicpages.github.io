@@ -61,4 +61,4 @@ Talks
 
 Service
 ======
-* Program committee member: ACL, EMNLP, and WWW.
+* Program committee member: ACL, EMNLP, and The Web Conf. (previously, WWW).
