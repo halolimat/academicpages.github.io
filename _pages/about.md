@@ -18,7 +18,7 @@ Before joining the master's program at UT, I received my bachelor's degree in Co
 
 ## Updates
 
-* Excited to be a member of the program committee in both ACL and EMNLP this year, 2019.
+* Excited to be a program committee member of both ACL and EMNLP this year, 2019.
 * In May 2019, I got the "Outstanding Student Award" from the CES Department at Wright State University.
 * In April 2019, our demo paper was accepted at SIGIR 2019. To appear.
 * In March 2019, our US. patent titled ["Machine Assisted Learning of Entities"](https://patents.google.com/patent/US10242320B1/en) was granted.
