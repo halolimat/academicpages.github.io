@@ -7,6 +7,8 @@ tags:
 description: Heuristics explained with a simple numeric minimization problem using Particle swarm optimization technique.
 ---
 
+Heuristics explained with a simple numeric minimization problem using Particle swarm optimization technique.
+
 In computer science, we find solutions to problems, and one of the tools we use to solve problems is the algorithm. Algorithms are procedures that a computer follows and executes. However, some algorithms are not always the best way to solve certain very complex problems, problems in which a partial or an approximate solution would suffice.
 
 One of the things that I love about computer science is how we use and learn from everything around us and from all fields of study and disciplines. (You can learn more about this in a talk by Kevin Slavin titled [How algorithms shape our world][tedTalk].) In this article, however, I will explain a very simple concept we use to solve very complex problems. It's an idea inspired by the social behavior of animals, such as fish that swim in a school or birds that fly in a flock. And it doesn't involve an algorithm.

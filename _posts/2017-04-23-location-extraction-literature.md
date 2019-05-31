@@ -7,7 +7,7 @@ tags:
 description: In this post, I write about the importance of location name extraction and the common techniques to extract them from texts.
 ---
 
-[This post was original shared in Kno.e.sis Research Blog](http://blog.knoesis.org/2016/05/extracting-and-mapping-locations.html)
+In this post, I write about the importance of location name extraction and the common techniques to extract them from texts.
 
 The meaning of a social media post can be a function of location. For example, the meaning of "The Main Street bridge is closed" is ambiguous without establishing exactly which bridge is in question (The one in Danville, VA or in Columbus, OH). At the same time, location information metadata is sparse, forcing analysis of social media content and context to disambiguate alternative mappings. This article uncovers some of the persisting challenges in the recovery of location information from content and context: Text normalization, ambiguous location information, Geoparsing, and the future steps of our research.
 

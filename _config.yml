@@ -11,8 +11,8 @@ title                    : "Hussein S. Al-Olimat"
 title_separator          : "-"
 name                     : &name "Hussein S. Al-Olimat"
 description              : &description "halolimat website/blog"
-url                      : https://halolimat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://localhost # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "https://" # the subpath of your site, e.g. "/blog"
 repository               : "halolimat/halolimat.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -84,13 +84,13 @@ author:
   avatar           : "me.png"
   bio              : "PhD(c) in Computer Science (NLP, IE, IR, and ML)"
   location         : "Dayton, OH, USA"
-  employer         :
+  employer         : "Kno.e.sis, Wright State University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=hussein+al-olimat"
   googlescholar    : "https://scholar.google.com/citations?user=9lW-nmEAAAAJ&hl=en"
-  email            :
+  email            : "hussein.alolimat@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Hussein_Al-Olimat"
   uri              :
-  bitbucket        :
+  bitbucket        : "https://bitbucket.org/olimatco/"
   codepen          :
   dribbble         :
   flickr           :
