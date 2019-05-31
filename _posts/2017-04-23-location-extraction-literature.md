@@ -1,7 +1,7 @@
 ---
 title:  "Extracting and Mapping Location Mentions From Texts To The Ground"
 date:   2016-05-23 19:38:00
-permalink: /2016/location-extraction-literature
+permalink: /2016/location-extraction-literature/
 tags:
   - intro posts
 description: In this post, I write about the importance of location name extraction and the common techniques to extract them from texts.

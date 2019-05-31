@@ -1,7 +1,7 @@
 ---
 title:  "Heuristics: the art of good guessing"
 date:   2016-08-29 10:51:00
-permalink: /2016/heuristics
+permalink: /2016/heuristics/
 tags:
   - intro posts
 description: Heuristics explained with a simple numeric minimization problem using Particle swarm optimization technique.
@@ -51,15 +51,15 @@ Next, I will be preparing an IPython Notebook to walk you through the implementa
 [knockKnockDesc]: http://link.hussein.space/listo8bbd
 [whatsanalgo]: http://link.hussein.space/whats81c7
 
-> References:
+## References:
 
->> [1] Eberhart, Russ C., and James Kennedy. "A new optimizer using particle swarm theory." In Proceedings of the sixth international symposium on micro machine and human science, vol. 1, pp. 39-43. 1995.
+[1] Eberhart, Russ C., and James Kennedy. "A new optimizer using particle swarm theory." In Proceedings of the sixth international symposium on micro machine and human science, vol. 1, pp. 39-43. 1995.
 
->> [2] Al-Olimat, H. S., Alam, M., Green, R., & Lee, J. K. (2015). Cloudlet Scheduling with Particle Swarm Optimization. In 2015 Fifth International Conference on Communication Systems and Network Technologies (pp. 991–995). <http://link.hussein.space/ieeex58ac>
+[2] Al-Olimat, H. S., Alam, M., Green, R., & Lee, J. K. (2015). Cloudlet Scheduling with Particle Swarm Optimization. In 2015 Fifth International Conference on Communication Systems and Network Technologies (pp. 991–995). <http://link.hussein.space/ieeex58ac>
 
->> [3] Bird Flock. Digital image. Wikimedia.org, n.d. Web. 26 July 2016. <http://link.hussein.space/orgwi96f0>.
+[3] Bird Flock. Digital image. Wikimedia.org, n.d. Web. 26 July 2016. <http://link.hussein.space/orgwi96f0>.
 
->> [4] Djrhythmdave. "Takeshi's Castle (UK Dub) - Knock Knock." YouTube. YouTube, 15 May 2015. Web. 26 July 2016. <http://link.hussein.space/takes2c9d>.
+[4] Djrhythmdave. "Takeshi's Castle (UK Dub) - Knock Knock." YouTube. YouTube, 15 May 2015. Web. 26 July 2016. <http://link.hussein.space/takes2c9d>.
 
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
