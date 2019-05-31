@@ -1,5 +1,5 @@
 ---
-title: "Semi-Supervised Approach to Monitoring Clinical Depressive Symptoms in Social Media"
+title: "Feature engineering for twitter-based applications"
 collection: publications
 excerpt: "This chapter presents studies concerning feature engineering for Twitter-based applications. It first discusses how Twitter data can be downloaded from the Twitter Application Programming Interface (API) and the kinds of data available in the downloaded tweets. Then, it discusses various textual features, image and video features, Twitter metadata-related features, and network features that can be extracted. Next, it discusses the uses of different feature types along with an analysis on why certain features perform well in the context of informal short text messages typically found in tweets. It then presents five real-world Twitter applications that utilize the different feature types. For each application, it also highlights the features that perform well in the corresponding application setting. Finally, it concludes the chapter by discussing Twitris, a real-time semantic social web analytics platform that has already been commercialized, and its use of Twitter features."
 date: 2018-01-01
