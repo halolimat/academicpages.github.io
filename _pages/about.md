@@ -26,5 +26,5 @@ Before joining the master's program at UT, I received my bachelor's degree in Co
 * I presented our two papers [LNEx]({{ site.url }}/publications/LNEx/) and [SpExtor]({{ site.url }}/publications/SpExtor/) at COLING 2018 in Santa Fe, NM.
 * I will be presenting with Amir Yazdavar our tutorial on Location Extraction @ ISCRAM - 2018 in May 2018 in Rochester, NY. [Tutorial Website](https://hussein.space/geotutorial/)
 * I presented our [depression detection paper]({{ site.url }}/publications/ssToT/) in ASONAM 2017 in Sydney, Australia on August 2017. [Slides](https://www.slideshare.net/knoesis/semisupervised-approach-to-monitoring-clinical-depressive-symptoms-in-social-media)
-* Our paper titled ["Semi-Supervised Approach to Monitoring Clinical Depressive Symptoms in Social Media"](({{ site.url }}/publications/ssToT/) was accepted in ASONAM 2017.
+* Our paper titled ["Semi-Supervised Approach to Monitoring Clinical Depressive Symptoms in Social Media"]({{ site.url }}/publications/ssToT/) was accepted in ASONAM 2017.
 * In June 2016, our poster titled ["Analyzing Depressive Symptoms in Twitter"](https://corescholar.libraries.wright.edu/cgi/viewcontent.cgi?article=2501&context=knoesis) was accepted and will be presented in the the 23rd NIMH Conference on Mental Health Services Research, MHSR 2016: Harnessing Science to Strengthen the Public Health Impact.
