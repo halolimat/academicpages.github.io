@@ -39,9 +39,7 @@ Now, I will explain how PSO work on the toy problem for simplicity. PSO would st
 
 Since PSO is a heuristic method with no guarantees of a perfect solution we can stop running the algorithm at a given point in time and say, OK!, What I found so far is good enough for me. In our previous work [2], however, we used PSO in a combination of other methods and we were able to decrease the running time by about $ 49\% $ of that of the normal method without compromising the quality of the solution. And that was only possible because the swarm allowed us to reflect the idea of good guessing, making PSO the Leonardo da Vinci of computer algorithms.
 
-~~~~
-Next, I will be preparing an IPython Notebook to walk you through the implementation of the example above so check out the blog later.
-~~~~
+Interested in learning how to code that solution in Python? Then you can find the step-by-step tutorial explaining how to implement that in the following [blog post]({{ site.url }}/2016/PSO/).
 
 [tedTalk]: http://link.hussein.space/howal8515
 [GeorgePolya]: http://link.hussein.space/georg3e88
