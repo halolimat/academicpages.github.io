@@ -9,15 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+---
 
 Education
-======
+------
 * B.S. in Computer Science, German Jordanian University, 2012
 * M.S. in Computer Science, the University of Toledo, 2014
 * Ph.D in Computer Science, Wright State University, 2019 (expected)
 
 Work experience
-======
+------
 * Fall 2015 - now: Graduate Researcher
   * [Kno.e.sis Center](knoesis.org), [Wright State University](wright.edu)
   * Duties included: Leading [HazardSEES NSF project](http://wiki.knoesis.org/index.php/Social_and_Physical_Sensing_Enabled_Decision_Support).
@@ -40,13 +41,13 @@ Work experience
 * Skill 3 -->
 
 Publications
-======
+------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Talks
-======
+------
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
@@ -58,5 +59,5 @@ Talks
   {% endfor %}</ul> -->
 
 Service
-======
+------
 * Program committee member: ACL, EMNLP, and The Web Conf. (previously, WWW).
