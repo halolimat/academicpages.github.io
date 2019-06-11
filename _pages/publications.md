@@ -15,30 +15,30 @@ author_profile: true
 
 {% if author.googlescholar %}
   <div style="float: left; margin-right: 20px">
-    <a href="{{ author.googlescholar }}"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
+    <a href="{{ author.googlescholar }}" target="_blank"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
   </div>
 {% endif %}
 
 {% if author.researchgate %}
   <div style="float: left; margin-right: 20px">
-    <a href="{{ author.researchgate }}"><i class="fab fa-researchgate" aria-hidden="true"></i> ResearchGate</a>
+    <a href="{{ author.researchgate }}" target="_blank"><i class="fab fa-researchgate" aria-hidden="true"></i> ResearchGate</a>
   </div>
 {% endif %}
 
 {% if author.pubmed %}
   <div style="float: left; margin-right: 20px">
-    <a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a>
+    <a href="{{ author.pubmed }}" target="_blank"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a>
   </div>
 {% endif %}
 {% if author.orcid %}
   <div style="float: left; margin-right: 20px">
-    <a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a>
+    <a href="{{ author.orcid }}" target="_blank"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a>
   </div>
 {% endif %}
 
 {% if author.impactstory %}
   <div style="float: left; margin-right: 20px">
-    <a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a>
+    <a href="{{ author.impactstory }}" target="_blank"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a>
   </div>
 {% endif %}
 
