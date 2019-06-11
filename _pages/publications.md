@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+<br>
+
 {% include base_path %}
 
 {% if page.author and site.data.authors[page.author] %}
@@ -40,7 +42,7 @@ author_profile: true
   </div>
 {% endif %}
 
-<div></div>
+<br>
 
 ---
 
