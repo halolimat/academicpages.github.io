@@ -30,13 +30,13 @@ author_profile: true
 {% endif %}
 {% if author.orcid %}
   <div style="float: left; margin-right: 20px">
-    <a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
+    <a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a>
   </div>
 {% endif %}
 
 {% if author.impactstory %}
   <div style="float: left; margin-right: 20px">
-    <a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
+    <a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a>
   </div>
 {% endif %}
 
