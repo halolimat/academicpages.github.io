@@ -7,8 +7,6 @@ tags:
 description: In this post, I write about the importance of location name extraction and the common techniques to extract them from texts.
 ---
 
-In this post, I write about the importance of location name extraction and the common techniques to extract them from texts.
-
 The meaning of a social media post can be a function of location. For example, the meaning of "The Main Street bridge is closed" is ambiguous without establishing exactly which bridge is in question (The one in Danville, VA or in Columbus, OH). At the same time, location information metadata is sparse, forcing analysis of social media content and context to disambiguate alternative mappings. This article uncovers some of the persisting challenges in the recovery of location information from content and context: Text normalization, ambiguous location information, Geoparsing, and the future steps of our research.
 
 Consider the Tweet in Figure 1. It contains valuable, but implicit information for Disaster Response and Flood Modeling. Here the user provides the level of water during a  storm surge. Knowledge-based inference supports the enrichment of this claim to determine that the water level is around 3 meters (to the height of a first floor)<a title="The issue of reliability and trustworthiness of the extracted information are relevant to our project but are not discussed here."><sup>*</sup></a>. If we knew the location of Ganapathi colony, this quantitative data can inform a storm surge model to predict the direction of the surge and the danger it might pose.
