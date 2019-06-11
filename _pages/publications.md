@@ -12,22 +12,32 @@ author_profile: true
 {% endif %}
 
 {% if author.googlescholar %}
-  <li><a href="{{ author.googlescholar }}"><i class="fas fa-graduation-cap"></i> Google Scholar</a></li>
+  <div style="float: left; margin-right: 20px">
+    <a href="{{ author.googlescholar }}"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
+  </div>
 {% endif %}
 
 {% if author.researchgate %}
- <li><a href="{{ author.researchgate }}"><i class="fab fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
+  <div style="float: left; margin-right: 20px">
+    <a href="{{ author.researchgate }}"><i class="fab fa-researchgate" aria-hidden="true"></i> ResearchGate</a>
+  </div>
 {% endif %}
 
 {% if author.pubmed %}
-  <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
+  <div style="float: left; margin-right: 20px">
+    <a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a>
+  </div>
 {% endif %}
 {% if author.orcid %}
-  <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
+  <div style="float: left; margin-right: 20px">
+    <a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
+  </div>
 {% endif %}
 
 {% if author.impactstory %}
-  <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
+  <div style="float: left; margin-right: 20px">
+    <a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
+  </div>
 {% endif %}
 
 <!-- {% if author.googlescholar %}
