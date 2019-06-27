@@ -4,7 +4,7 @@ collection: talks
 type: "Defense Talk"
 permalink: /talks/2014-06-MasterThesis
 venue: "EECS Department, The University of Toledo"
-date: 2014-06
+date: 2014-06-17
 location: "Toledo, OH, USA"
 ---
 
