@@ -1,7 +1,7 @@
 ---
 title: "Optimizing cloudlet scheduling and wireless sensor localization using computational intelligence techniques"
 collection: publications
-excerpt: 'Optimization algorithms are truly complex procedures that consider many elements when optimizing a specific problem. Cloud computing (CCom) and Wireless sensor networks (WSNs) are full of optimization problems that need to be solved. One of the main problems of using the clouds is the underutilization of the reserved resources, which causes longer makespans and higher usage costs. Also, the optimization of sensor nodes' power consumption, in WSNs, is very critical due to the fact that sensor nodes are small in size and have constrained resources in terms of power/energy, connectivity, and computational power.'
+excerpt: "Optimization algorithms are truly complex procedures that consider many elements when optimizing a specific problem. Cloud computing (CCom) and Wireless sensor networks (WSNs) are full of optimization problems that need to be solved. One of the main problems of using the clouds is the underutilization of the reserved resources, which causes longer makespans and higher usage costs. Also, the optimization of sensor nodes' power consumption, in WSNs, is very critical due to the fact that sensor nodes are small in size and have constrained resources in terms of power/energy, connectivity, and computational power."
 date: 2014-08-06
 venue: 'The University of Toledo'
 paperurl: 'https://etd.ohiolink.edu/pg_10?0::NO:10:P10_ACCESSION_NUM:toledo1403922600'
