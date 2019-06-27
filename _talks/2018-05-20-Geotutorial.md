@@ -1,5 +1,5 @@
 ---
-title: "Geotutorial"
+title: "Location Extraction and Georeferencing in Social Media: Challenges, Techniques, and Applications"
 collection: talks
 type: "Conference Tutorial"
 permalink: /talks/2018-05-20-Geotutorial
