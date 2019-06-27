@@ -8,4 +8,6 @@ date: 2017-10-05
 location: "Dayton, OH"
 ---
 
+Video of my talk at the Advanced Semantic Web class at Wright State University, Dayton, OH.
+
 <iframe jsname="L5Fo6c" class="YMEQtf" frameborder="0" aria-label="YouTube Video" src="https://www.youtube.com/embed/uSX3AjNIyHI" allowfullscreen=""></iframe>
