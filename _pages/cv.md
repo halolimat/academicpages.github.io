@@ -20,7 +20,7 @@ Education
 Work experience
 ------
 * Fall 2015 - now: Graduate Researcher
-  * [Kno.e.sis Center](knoesis.org), [Wright State University](wright.edu)
+  * [Kno.e.sis Center](http://www.knoesis.org/), [Wright State University](https://www.wright.edu)
   * Duties included: Leading [HazardSEES NSF project](http://wiki.knoesis.org/index.php/Social_and_Physical_Sensing_Enabled_Decision_Support).
 
 * Summer 2018: NLP Research Intern
@@ -28,7 +28,7 @@ Work experience
   * Duties included: R&D of Active Learning solution for Computer Assisted Medical Coding. Worked as part of the NLP scrum team of the Clinical Discovery Engine.
 
 * Summer 2017: NLP Research Intern
-  * [Maana Inc](maana.io)
+  * [Maana Inc](https://www.maana.io)
   * Duties included: R&D of Active-learning-based information extraction inside Maana™.
 
 <!-- Skills
