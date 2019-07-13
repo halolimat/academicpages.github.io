@@ -12,8 +12,6 @@ This work addresses challenges arising from extracting entities from textual dat
 
 [Download paper here](https://www.aclweb.org/anthology/C18-1059)
 
-Recommended citation: Hussein S. Al-Olimat, Steven Gustafson, Jason Mackay, Krishnaprasad Thirunarayan, and Amit Sheth. 2018. A practical incremental learning framework for sparse entity extraction. In Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018), pages 700–710. Association for Computational Linguistics.
-
 [BibTex](https://www.aclweb.org/anthology/papers/C/C18/C18-1059.bib)
 
 [Code](https://github.com/halolimat/SpExtor)

@@ -12,8 +12,6 @@ With the rise of social media, millions of people are routinely expressing their
 
 [Download paper here](http://knoesis.cs.wright.edu/sites/default/files/IEEE_Conference%20%2813%29.pdf)
 
-Recommended citation: Amir Hossein Yazdavar, Hussein S. Al-Olimat, Monireh Ebrahimi, Goonmeet Bajaj, Tanvi Banerjee, Krishnaprasad Thirunarayan, Jyotishman Pathak, and Amit Sheth. 2017. Semi-Supervised Approach to Monitoring Clinical Depressive Symptoms in Social Media. In Proceedings of the 2017 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining 2017 (ASONAM '17), Jana Diesner, Elena Ferrari, and Guandong Xu (Eds.). ACM, New York, NY, USA, 1191-1198. DOI: https://doi.org/10.1145/3110025.3123028
-
 [BibTex](https://dl.acm.org/downformats.cfm?id=3123028&parent_id=3110025&expformat=bibtex)
 
 [Code](https://github.com/halolimat/Social-media-Depression-Detector)

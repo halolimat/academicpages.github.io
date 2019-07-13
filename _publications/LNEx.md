@@ -12,8 +12,6 @@ Extracting location names from informal and unstructured social media data requi
 
 [Download paper here](https://www.aclweb.org/anthology/papers/C/C18/C18-1169/)
 
-Recommended citation: Hussein S. Al-Olimat, Krishnaprasad Thirunarayan, Valerie Shalin, and Amit Sheth. 2018. Location Name Extraction from Targeted Text Streams using Gazetteer-based Statistical Language Models. In Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018), pages 1986–1997. Association for Computational Linguistics.
-
 [BibTex](https://www.aclweb.org/anthology/papers/C/C18/C18-1169.bib)
 
 [Code](https://github.com/halolimat/LNEx)

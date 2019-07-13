@@ -14,8 +14,6 @@ This thesis formulates the concern on how CCom systems and WSNs can take advanta
 
 Download Thesis from [this link](https://etd.ohiolink.edu/pg_10?0::NO:10:P10_ACCESSION_NUM:toledo1403922600)
 
-Recommended citation: Al-Olimat, Hussein "Optimizing Cloudlet Scheduling and Wireless Sensor Localization using Computational Intelligence Techniques." Electronic Thesis or Dissertation. University of Toledo, 2014. https://etd.ohiolink.edu/
-
 [BibTex](https://github.com/halolimat/publications/blob/7c795700fc84be90e93f5fa35ab205fa7ebf6b86/all.bib#L126)
 
 [Code](https://github.com/halolimat/clocacits)

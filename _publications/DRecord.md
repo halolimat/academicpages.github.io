@@ -12,8 +12,6 @@ We employ multi-modal data (i.e., unstructured text, gazetteers, and imagery) fo
 
 [Download paper here](http://knoesis.wright.edu/sites/default/files/D_record__Disaster_Response_and_Relief_Coordination_Pipeline.pdf)
 
-Recommended citation: Shruti Kar, Hussein S. Al-Olimat, Krishnaprasad Thirunarayan, Valerie L. Shalin, Amit Sheth, and Srinivasan Parthasarathy. 2018. D-record: Disaster Response and Relief Coordination Pipeline. In Proceedings of the 1st ACM SIGSPATIAL Workshop on Advances on Resilient and Intelligent Cities (ARIC'18), Bandana Kar, Olufemi A. Omitaomu, Shima Mohebbi, and Guangtao Fu (Eds.). ACM, New York, NY, USA, 13-16. DOI: https://doi.org/10.1145/3284566.3284572
-
 [BibTex](https://dl.acm.org/downformats.cfm?id=3284572&parent_id=3284566&expformat=bibtex)
 
 [Code](https://github.com/shrutikar/DisasterRecord)
