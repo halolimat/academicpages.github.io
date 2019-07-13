@@ -9,7 +9,7 @@ description: Heuristics explained with a simple numeric minimization problem usi
 
 In computer science, we find solutions to problems, and one of the tools we use to solve problems is the algorithm. Algorithms are procedures that a computer follows and executes. However, some algorithms are not always the best way to solve certain very complex problems, problems in which a partial or an approximate solution would suffice.
 
-One of the things that I love about computer science is how we use and learn from everything around us and from all fields of study and disciplines. (You can learn more about this in a talk by Kevin Slavin titled [How algorithms shape our world][tedTalk].) In this article, however, I will explain a very simple concept we use to solve very complex problems. It's an idea inspired by the social behavior of animals, such as fish that swim in a school or birds that fly in a flock. And it doesn't involve an algorithm.
+One of the things that I love about computer science is how we use and learn from everything around us and from all fields of study and disciplines. (You can learn more about Computer Science applied to life in a talk by Tom Griffiths titled [The Computer Science of Human Decision Making][tedTalk].) In this article, however, I will explain a very simple concept we use to solve very complex problems. It's an idea inspired by the social behavior of animals, such as fish that swim in a school or birds that fly in a flock. And it doesn't involve an algorithm.
 
 What is good enough? The context here is very important when answering that question. For example, if two companies manufacture scales, the first might make scales to weigh highway trucks and the second might make scales to measure gems. The difference in the accuracy of each needed weighing result is very clear. The digital jewelry scale should be able to measure weights even less than 0.1 grams while it is enough for the trucks scale to show the weights in tons.
 
@@ -39,7 +39,7 @@ Since PSO is a heuristic method with no guarantees of a perfect solution we can 
 
 Interested in learning how to code that solution in Python? Then you can find the step-by-step tutorial explaining how to implement that in the following [blog post]({{ site.url }}/2016/PSO/).
 
-[tedTalk]: http://link.hussein.space/howal8515
+[tedTalk]: https://www.youtube.com/watch?v=lOhL-XUQPFE
 [GeorgePolya]: http://link.hussein.space/georg3e88
 [DouglasMerrill]: http://link.hussein.space/douglfc46
 [takishiCastle]: http://link.hussein.space/takese87f
