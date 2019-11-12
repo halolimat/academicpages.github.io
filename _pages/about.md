@@ -18,6 +18,8 @@ Before joining the master's program at UT, I received my bachelor's degree in Co
 
 ## Updates
 
+* Our paper ["Towards Geocoding Spatial Expressions"](https://arxiv.org/abs/1906.04960) won a Blue Sky Idea prize by the [The Computing Community Consortium - CCC](https://cra.org/ccc/).
+* Our vision paper ["Towards Geocoding Spatial Expressions"](https://arxiv.org/abs/1906.04960) was accepted for publication in SIGSPATIAL 2019.
 * Excited to be a program committee member of both ACL and EMNLP this year, 2019.
 * In May 2019, I got the "Outstanding Student Award" from the CES Department at Wright State University.
 * In April 2019, our demo paper was accepted at SIGIR 2019. To appear.
