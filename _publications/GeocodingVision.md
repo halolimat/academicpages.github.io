@@ -5,7 +5,7 @@ excerpt: 'Imprecise composite location references formed using ad hoc spatial ex
 date: 2019-11-06
 venue: 'SIGSPATIAL 2019'
 paperurl: 'https://arxiv.org/abs/1906.04960'
-citation: 'Hussein S. Al-Olimat, Valerie Shalin, Krishnaprasad Thirunarayan, and Joy Prakash Sain. 2019. Towards Geocoding Spatial Expressions (vision paper). In Proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL '19). ACM, New York, NY, USA. DOI: https://doi.org/10.1145/3347146.3359356'
+citation: "Hussein S. Al-Olimat, Valerie Shalin, Krishnaprasad Thirunarayan, and Joy Prakash Sain. 2019. Towards Geocoding Spatial Expressions (vision paper). In Proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL '19). ACM, New York, NY, USA. DOI: https://doi.org/10.1145/3347146.3359356"
 
 ---
 
