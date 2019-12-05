@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Hussein S. Al-Olimat"
   avatar           : "me.png"
-  bio              : "PhD(c) in Computer Science (NLP, IE, IR, and ML)"
-  location         : "Dayton, OH, USA"
-  employer         : "Kno.e.sis, Wright State University"
+  bio              : "PhD in Computer Science (NLP, IE, IR, and ML)"
+  location         : ""
+  employer         : ""
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=hussein+al-olimat"
   googlescholar    : "https://scholar.google.com/citations?user=9lW-nmEAAAAJ&hl=en"
   email            : "hussein.alolimat@gmail.com"
