@@ -8,17 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-~~Currently pursuing~~ PhD in Computer Science and Engineering at [Wright State University](http://www.wright.edu/) ~~working as part of the research team at The Ohio Center of Excellence in Knowledge-enabled Computing ([Kno.e.sis](http://www.knoesis.org/))~~. My dissertation titled "Knowledge-enabled Entity Extraction" is advised by [Dr. Krishnaprasad Thirunarayan](http://knoesis.wright.edu/tkprasad/).
+Hussein S. Al-Olimat obtained his Ph.D. in Computer Science from [Wright State University](http://www.wright.edu/) in 2019. He worked at the [Kno.e.sis](http://www.knoesis.org/) research center at Wright State University since 2015. Pursuing multifaceted syntactic, semantic, and pragmatic information extraction techniques, his dissertation titled "Knowledge-enabled Entity Extraction" has resulted in several publications in the areas of IE, NLP, GIS, and decision support. As an advocate and a member of the Open Source Initiative, Hussein's research is implemented as open-source projects and has lead to ongoing collaborations with humanitarian and social development organizations.
 
-~~Kno.e.sis performs world-class research on translating information to meaning, towards the vision of Computing for Human Experience. My research is focused on Natural Language Processing, Information and Knowledge Retrieval and Extraction, and Machine Learning.~~
-
-Previously, received MSc. in Computer Science and Engineering from [the University of Toledo](http://knoesis.wright.edu/tkprasad/). My research and thesis work was focused on the development of multi-level and multi-objective optimization techniques through the development of [Metaheuristics](https://en.wikipedia.org/wiki/Metaheuristic) (mainly using [Bio-Inspired Computing](https://en.wikipedia.org/wiki/Metaheuristic)).
-
-Before joining the master's program at UT, I received my bachelor's degree in Computer Science from the [German Jordanian University](https://www.gju.edu.jo), Amman, Jordan.
+In his research, Hussein studies faster, cheaper, and more reliable IE and NLP methods in search of practical and impactful solutions to real-world problems with fundamental, generalizable research. His research was recognized by the Computing Community Consortium (CCC) as a Blue Sky vision idea and patented in the USA.
 
 ## Updates
 
-* I successfully defended my PhD. dissertation on Nov 2019.
+* I will be joining Tempus, a biotech company as an NLP Scientist starting January 2020.
+* I successfully defended my Ph.D. dissertation on Nov 2019.
 * Our paper ["Towards Geocoding Spatial Expressions"]({{ site.url }}/publications/GeocodingVision/) won a Blue Sky Idea prize by the [The Computing Community Consortium - CCC](https://cra.org/ccc/).
 * Our vision paper ["Towards Geocoding Spatial Expressions"]({{ site.url }}/publications/GeocodingVision/) was accepted for publication in SIGSPATIAL 2019.
 * Excited to be a program committee member of both ACL and EMNLP this year, 2019.
@@ -30,4 +27,4 @@ Before joining the master's program at UT, I received my bachelor's degree in Co
 * I will be presenting with Amir Yazdavar our tutorial on Location Extraction @ ISCRAM - 2018 in May 2018 in Rochester, NY. [Tutorial Website](https://hussein.space/geotutorial/)
 * I presented our [depression detection paper]({{ site.url }}/publications/ssToT/) in ASONAM 2017 in Sydney, Australia on August 2017. [Slides](https://www.slideshare.net/knoesis/semisupervised-approach-to-monitoring-clinical-depressive-symptoms-in-social-media)
 * Our paper titled ["Semi-Supervised Approach to Monitoring Clinical Depressive Symptoms in Social Media"]({{ site.url }}/publications/ssToT/) was accepted in ASONAM 2017.
-* In June 2016, our poster titled ["Analyzing Depressive Symptoms in Twitter"](https://corescholar.libraries.wright.edu/cgi/viewcontent.cgi?article=2501&context=knoesis) was accepted and will be presented in the the 23rd NIMH Conference on Mental Health Services Research, MHSR 2016: Harnessing Science to Strengthen the Public Health Impact.
+* In June 2016, our poster titled ["Analyzing Depressive Symptoms in Twitter"](https://corescholar.libraries.wright.edu/cgi/viewcontent.cgi?article=2501&context=knoesis) was accepted and will be presented in the 23rd NIMH Conference on Mental Health Services Research, MHSR 2016: Harnessing Science to Strengthen the Public Health Impact.
