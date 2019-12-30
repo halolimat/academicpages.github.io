@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hussein S. Al-Olimat obtained his Ph.D. in Computer Science from [Wright State University](http://www.wright.edu/) in 2019. He worked at the [Kno.e.sis](http://www.knoesis.org/) research center at Wright State University since 2015. Pursuing multifaceted syntactic, semantic, and pragmatic information extraction techniques, his dissertation titled "Knowledge-enabled Entity Extraction" has resulted in several publications in the areas of IE, NLP, GIS, and decision support. As an advocate and a member of the Open Source Initiative, Hussein's research is implemented as open-source projects and has lead to ongoing collaborations with humanitarian and social development organizations.
+Hussein S. Al-Olimat obtained his Ph.D. in Computer Science from [Wright State University](http://www.wright.edu/) in 2019. He worked at the [Kno.e.sis](http://www.knoesis.org/) research center at Wright State University since 2015. Pursuing multifaceted syntactic, semantic, and pragmatic information extraction techniques, his dissertation titled "Knowledge-enabled Entity Extraction" has resulted in several publications in the areas of IE, NLP, GIS, and decision support. As an advocate and a member of the [Open Source Initiative](https://opensource.org/), Hussein's research is implemented as open-source projects and has lead to collaborations with humanitarian and social development organizations.
 
 In his research, Hussein studies faster, cheaper, and more reliable IE and NLP methods in search of practical and impactful solutions to real-world problems with fundamental, generalizable research. His research was recognized by the Computing Community Consortium (CCC) as a Blue Sky vision idea and patented in the USA.
 
