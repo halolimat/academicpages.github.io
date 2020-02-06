@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hussein S. Al-Olimat"
+title                    : "Hussein S. Al-Olimat, PhD"
 title_separator          : "-"
 name                     : &name "Hussein S. Al-Olimat"
 description              : &description "halolimat website/blog"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hussein S. Al-Olimat"
+  name             : "Hussein S. Al-Olimat, PhD"
   avatar           : "me.png"
-  bio              : "PhD in Computer Science (NLP, IE, IR, and ML)"
-  location         : ""
-  employer         : ""
+  bio              : "NLP Scientist"
+  location         : "Chicago, IL"
+  employer         : "Tempus Labs Inc."
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=hussein+al-olimat"
   googlescholar    : "https://scholar.google.com/citations?user=9lW-nmEAAAAJ&hl=en"
   email            : "hussein.alolimat@gmail.com"
