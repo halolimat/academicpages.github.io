@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hussein S. Al-Olimat"
+title: "Hussein S. Al-Olimat, PhD"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -14,11 +14,10 @@ In his research, Hussein studies faster, cheaper, and more reliable IE and NLP m
 
 ## Updates
 
-* I will be joining Tempus, a biotech company as an NLP Scientist starting January 2020.
+* I joined Tempus, a biotech company, as an NLP Scientist in January 2020.
 * I successfully defended my Ph.D. dissertation on Nov 2019.
 * Our paper ["Towards Geocoding Spatial Expressions"]({{ site.url }}/publications/GeocodingVision/) won a Blue Sky Idea prize by the [The Computing Community Consortium - CCC](https://cra.org/ccc/).
 * Our vision paper ["Towards Geocoding Spatial Expressions"]({{ site.url }}/publications/GeocodingVision/) was accepted for publication in SIGSPATIAL 2019.
-* Excited to be a program committee member of both ACL and EMNLP this year, 2019.
 * In May 2019, I got the "Outstanding Student Award" from the CES Department at Wright State University.
 * In April 2019, our demo paper was accepted at SIGIR 2019. To appear.
 * In March 2019, our US. patent titled ["Machine Assisted Learning of Entities"](https://patents.google.com/patent/US10242320B1/en) was granted.
