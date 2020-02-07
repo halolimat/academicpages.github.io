@@ -13,21 +13,24 @@ redirect_from:
 
 Education
 ------
-* B.S. in Computer Science, German Jordanian University, 2012
+* Ph.D in Computer Science, Wright State University, 2019
 * M.S. in Computer Science, the University of Toledo, 2014
-* Ph.D in Computer Science, Wright State University, 2019 (expected)
+* B.S. in Computer Science, German Jordanian University, 2012
 
-Work experience
+Recent Work experience
 ------
-* Fall 2015 - now: Graduate Researcher
+* 01/2020 - now: NLP Scientist
+  * [Tempus Labs Inc.](https://www.tempus.com)
+
+* 08/2015 - 12/2019: Graduate Researcher
   * [Kno.e.sis Center](http://www.knoesis.org/), [Wright State University](https://www.wright.edu)
   * Duties included: Leading [HazardSEES NSF project](http://wiki.knoesis.org/index.php/Social_and_Physical_Sensing_Enabled_Decision_Support).
 
-* Summer 2018: NLP Research Intern
+* 05/2018 - 08/2018: NLP Research Intern
   * [3M Health Information Systems](https://www.3m.com/3M/en_US/health-information-systems-us/providers/natural-language-processing/)
   * Duties included: R&D of Active Learning solution for Computer Assisted Medical Coding. Worked as part of the NLP scrum team of the Clinical Discovery Engine.
 
-* Summer 2017: NLP Research Intern
+* 05/2017 - 08/2017: NLP Research Intern
   * [Maana Inc](https://www.maana.io)
   * Duties included: R&D of Active-learning-based information extraction inside Maana™.
 
@@ -60,4 +63,4 @@ Talks
 
 Service
 ------
-* Program committee member: ACL, EMNLP, and The Web Conf. (previously, WWW).
+* Program committee member: ACL, EMNLP, and The Web Conference (previously, WWW).
