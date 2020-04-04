@@ -12,6 +12,7 @@ Hussein S. Al-Olimat is an NLP Scientist working as part of the AI & Data Scienc
 
 ## Updates
 
+* Our work was featurized by [The Computing Community Consortium - CCC](https://cra.org/ccc/) as an innovative idea-- [link](https://cra.org/ccc/towards-geocoding-spatial-expressions/)
 * I joined Tempus, a biotech company, as an NLP Scientist in January 2020.
 * I successfully defended my Ph.D. dissertation on Nov 2019.
 * Our paper ["Towards Geocoding Spatial Expressions"]({{ site.url }}/publications/GeocodingVision/) won a Blue Sky Idea prize by the [The Computing Community Consortium - CCC](https://cra.org/ccc/).
