@@ -41,7 +41,8 @@ published: true
 | Sentiment Analysis               | https://github.com/nora-twairesh/AraSenti                                                                                                                        |
 |                                  | https://github.com/almoslmi/masc                                                                                                                                 |
 |                                  | https://github.com/marwanalomari/Sentiment-Classifier-Logistic-Regression-for-Arabic-Services-Reviews-in-Lebanon                                                 |
-|                                  | https://github.com/komari6/Arabic-twitter-corpus-AJGT                                                                                                            |
+|                                  | https://github.com/komari6/Arabic-twitter-corpus-AJGT
+|                                  | https://tahatobaili.github.io/project-rbz/                                                                                                      |
 | Speech data                      | http://www.cs.stir.ac.uk/~lss/arabic/                                                                                                                            |
 |                                  | https://github.com/Anwarvic/Arabic-Speech-Recognition                                                                                                            |
 | Tashkeel                         | https://github.com/Anwarvic/Tashkeela-Model                                                                                                                      |
